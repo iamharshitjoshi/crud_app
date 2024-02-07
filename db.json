@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "8a91",
+      "name": "Harshit",
+      "username": "iamharshitjoshi",
+      "email": "harshit@123"
+    },
+    {
+      "id": "5281",
+      "name": "anas",
+      "username": "iamanas",
+      "email": "anas@123"
+    },
+    {
+      "id": "8c8f",
+      "name": "abd",
+      "username": "iamabd",
+      "email": "abd@123"
+    },
+    {
+      "id": "607b",
+      "name": "divyansh",
+      "username": "iamdivyansh",
+      "email": "divyansh@123"
+    }
+  ]
+}
