@@ -24,7 +24,7 @@ const Home = () => {
       <div className="py-4">
         <h1>Home Page</h1>
 
-        {/* table */}
+    
         <table className="table border shadow">
           <thead className="table table-dark table-striped">
             <tr>
